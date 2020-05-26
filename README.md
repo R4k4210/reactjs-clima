@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Descripción del Proyecto
+
+Aplicación sencilla para la práctica del consumo de una API del clima. 
+
+https://openweathermap.org/
+
 ## Available Scripts
 
 In the project directory, you can run:
